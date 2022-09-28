@@ -1,0 +1,12 @@
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe.config
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\bin\Debug\Piskvorky.exe
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\bin\Debug\Piskvorky.pdb
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.AssemblyReference.cache
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.SuggestedBindingRedirects.cache
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.FrmMain.resources
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.PlayBoard.resources
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.Properties.Resources.resources
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.GenerateResource.cache
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.exe
+C:\Users\Petr\Desktop\Csharp-pCv\Piskvorky\Piskvorky\obj\Debug\Piskvorky.pdb
